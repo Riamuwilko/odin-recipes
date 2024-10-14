@@ -6,7 +6,7 @@
 - [Features](#features-checklist)
 - [Installation](#installation)
 - [Built With](#built-with)
-- [Future of Odin Recipe](#future-of-odin-recipe)
+- [Future of Odin Recipe](#caveat/future-of-odin-recipe)
 - [License](#license)
 
 ## Project Description
