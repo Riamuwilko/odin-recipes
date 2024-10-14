@@ -6,7 +6,7 @@
 - [Features](#features-checklist)
 - [Installation](#installation)
 - [Built With](#built-with)
-- [Future of Odin Recipe](#future-of-paw-log)
+- [Future of Odin Recipe](#future-of-odin-recipe)
 - [License](#license)
 
 ## Project Description
@@ -39,7 +39,7 @@ Odin recipes will be hosted live here: https://riamuwilko.github.io/odin-recipes
 * ![HTML5]
 * ![CSS3]
 
-## Caveat/Future of Paw Log
+## Caveat/Future of Odin Recipe
 Understanding that Odin Recipe is presently in its proof-of-concept phase, it may lack some of the more sophisticated features. As the sole contributor to this project, it serves as a valuable learning experience for me. Operating without a dedicated team, Odin Recipe is essentially a passion project, albeit one with limited functionalities at this point. I acknowledge that certain essential considerations, such as scalability, have not been fully addressed. Nevertheless, I remain open to future enhancements. 
 
 ## License
