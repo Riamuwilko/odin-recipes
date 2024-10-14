@@ -21,7 +21,7 @@ The following features are essential for Odin Recipes to achieve its status as a
 - [x] Recipe Directory (recipes/)
   - [x] Create a recipes directory for storing individual recipe pages.
 - [x] Recipe Pages  
-  - [ ] Recipe name as an <h1> heading.
+  - [ ] Recipe name as an `<h1>` heading.
   - [ ] An image of the finished dish.
   - [ ] A description of the recipe.
   - [ ] An unordered list of ingredients.
